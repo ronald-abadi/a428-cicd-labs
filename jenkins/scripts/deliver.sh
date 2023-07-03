@@ -1,5 +1,13 @@
 #!/usr/bin/env sh
 
+echo '------------------------------------------------------------'
+echo 'DBS Foundation Coding Camp 2023 with Dicoding'
+echo 'Belajar Implementasi CI/CD'
+echo 'Deploy Stage, running deliver.sh'
+echo 'submission-cicd-pipeline-rabadi'
+echo 'Run by Ronald Mulyono Abadi'
+echo '------------------------------------------------------------'
+
 echo 'The following "npm" command builds your Node.js/React application for'
 echo 'production in the local "build" directory (i.e. within the'
 echo '"/var/jenkins_home/workspace/simple-node-js-react-app" directory),'
